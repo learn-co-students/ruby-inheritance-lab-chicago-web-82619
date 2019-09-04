@@ -12,6 +12,11 @@ avi = Teacher.new
 avi.first_name = "Avi"
 avi.last_name = "Flombaum"
 
+jim = User.new
+jim.first_name = "jim"
+jim.last_name = 'davis'
+
+# jim.learn
 
 some_knowledge = avi.teach 
 
